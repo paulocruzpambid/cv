@@ -87,7 +87,7 @@ h1 {
   text-align: left;
 }
 
-Ul {
+li {
   font-size: .75rem;
   text-align: left;
 }
@@ -201,7 +201,7 @@ Ul {
     text-align: left;
   }
 
-  Ul {
+  li {
     font-size: 1.5rem;
     text-align: left;
   }
