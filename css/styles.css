@@ -92,6 +92,11 @@ ul {
   text-align: left;
 }
 
+li {
+  font-size: .75rem;
+  text-align: left;
+}
+
 .img01 {
   height: 6rem;
   float: left;
@@ -205,6 +210,11 @@ ul {
     font-size: 1.5rem;
     text-align: left;
   }
+
+li {
+  font-size: 1.5rem;
+  text-align: left;
+}
 
   .img01 {
     height: 12rem;
