@@ -111,7 +111,7 @@ li {
   width: inherit;
 }
 
-@media (-webkit-min-device-pixel-ratio: 1.5) {
+@media (-webkit-min-device-pixel-ratio: 2) {
   body {
     margin: 0;
   }
@@ -192,17 +192,17 @@ li {
   }
 
   .h102 {
-    font-size: 2rem;
+    font-size: .5rem;
   }
 
   .h103 {
-    font-size: 2rem;
+    font-size: .5rem;
     display: block;
     text-align: left;
   }
 
   li {
-    font-size: 1.5rem;
+    font-size: .25rem;
     text-align: left;
   }
 
