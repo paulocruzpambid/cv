@@ -111,7 +111,8 @@ li {
   width: inherit;
 }
 
-@media (-webkit-min-device-pixel-ratio: 1.5) {
+/*@media (-webkit-min-device-pixel-ratio: 1.5) {*/
+@media (max-width: 1080px) {
   body {
     margin: 0;
   }
