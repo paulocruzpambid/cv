@@ -92,6 +92,11 @@ li {
   text-align: left;
 }
 
+.li01 {
+  font-size: .75rem;
+  text-align: left;
+}
+
 .img01 {
   height: 6rem;
   float: left;
@@ -202,6 +207,11 @@ li {
   }
 
   li {
+    font-size: .75rem;
+    text-align: left;
+  }
+
+  .li01 {
     font-size: 1.5rem;
     text-align: left;
   }
