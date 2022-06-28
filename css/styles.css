@@ -151,6 +151,15 @@ li {
     bottom: 3.25rem;
   }
 
+  .div04 {
+    display: inline-block;
+    width: 48rem;
+  }
+
+  .div05 {
+    margin: 20.25rem 0 5.75rem;
+  }
+
   .div06 {
     position: fixed;
     width: 100%;
@@ -161,15 +170,6 @@ li {
     position: fixed;
     width: 100%;
     top: 16.25rem;
-  }
-
-  .div04 {
-    display: inline-block;
-    width: 48rem;
-  }
-
-  .div05 {
-    margin: 20.25rem 0 5.75rem;
   }
 
   a {
