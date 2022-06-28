@@ -83,6 +83,10 @@ h1 {
 
 .h103 {
   font-size: 1rem;
+}
+
+.h104 {
+  font-size: 1rem;
   display: block;
 }
 
@@ -201,6 +205,10 @@ li {
 
   .h103 {
     font-size: 1rem;
+  }
+
+  .h104 {
+    font-size: 2rem;
     display: block;
   }
 
