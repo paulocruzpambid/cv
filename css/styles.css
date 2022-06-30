@@ -123,7 +123,6 @@ li {
   width: inherit;
 }
 
-/*@media (max-width: 1020px) {*/
 @media (-webkit-min-device-pixel-ratio: 1.5) {
   body {
     margin: 0;
@@ -167,7 +166,7 @@ li {
   }
 
   .div05 {
-    margin: 324px 0 88px;
+    margin: 324px 0 84px;
   }
 
   .div06 {
